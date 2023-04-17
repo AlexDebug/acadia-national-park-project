@@ -60,6 +60,12 @@ export default {
   background: rgb(242,226,205);
   /* background: linear-gradient(180deg, rgba(242,226,205,1) 0%, rgba(240,235,225,1) 46%, rgba(235,223,215,1) 100%); */
 }
+/* make a media quiery for mobile on app id */
+@media (max-width: 768px) {
+  #app {
+    font-size: 15px;
+  }
+}
 
 .hidden_from_view{
     opacity: 0;

@@ -13,6 +13,7 @@
     of feldspar, a mineral commonly found in granite. The granite formations in Acadia are part of the larger Appalachian 
     Mountains, which were formed during the Paleozoic Era, around 400 million years ago.
     </p>
+    <img class="w-[100%] mb-[5vh]" src="https://www.us-parks.com/images/featured/acadia-national-park-rock-shore.jpg">
     <p>
     The plate tectonic dynamics of the region played a crucial role in the formation of Acadia National Park's geosphere. 
     The movement of tectonic plates has been ongoing for millions of years and continues to shape the Earth's surface. In the 

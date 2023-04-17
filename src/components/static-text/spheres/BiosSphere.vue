@@ -22,6 +22,7 @@
     head and tail make them easy to spot. Other notable birds in the park include the peregrine falcon, osprey, loon, and a 
     variety of songbirds.
     </p>
+    <img src="https://www.nps.gov/npgallery/GetAsset/F49639E4-155D-451F-673E110505BA9DCB/proxy/hires?" class="w-[100%]">
     <p>
     In addition to the park's mammals and birds, the marine life in the surrounding waters is equally impressive. Visitors can 
     see a range of marine creatures such as harbor seals, porpoises, whales, and dolphins. The waters of Acadia National Park 

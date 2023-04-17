@@ -72,7 +72,7 @@ export default {
 
   #introduction_text{
     font-family: "Dongle";
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
   }
 
   #introduction_text > *{
