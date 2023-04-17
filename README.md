@@ -1,4 +1,4 @@
-# cascadia-national-patk-project
+# acadia-national-patk-project
 
 ## Project setup
 ```
