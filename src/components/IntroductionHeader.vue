@@ -73,4 +73,10 @@ export default {
         filter: blur(1px) grayscale(50%);
         /* backdrop-filter: blur(10px); */
     }
+
+    @media (max-width: 768px) {
+        #image_text {
+            font-size: 3rem;
+        }
+    }
 </style>
