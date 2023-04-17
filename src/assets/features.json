@@ -1,0 +1,104 @@
+{
+    "Geosphere" : 
+    [
+    {
+        "name" : "Cadillac Mountain",
+        "type" : "Geosphere",
+        "location": {
+            "lat": 44.3514,
+            "lng": -68.2233
+        },
+        "description": "Cadillac Mountain is the tallest mountain in Acadia National Park, standing at 1,530 feet above sea level. It is composed primarily of granite, which is estimated to be over 400 million years old. The summit of Cadillac Mountain provides stunning views of the surrounding landscape, including the nearby islands and the Atlantic Ocean.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cadillac_Mountain_from_Champlain_Mountain_-_panoramio.jpg"
+    },
+    {
+        "name":"Sand Beach",
+        "type": "Geosphere",
+        "location": {
+            "lat": 44.3282,
+            "lng": -68.1833
+        },
+        "description": "Sand Beach is a unique feature within Acadia National Park, as it is one of the few sandy beaches in the region. The sand at Sand Beach is composed of crushed shells and other marine debris that have been eroded by the sea over time. The beach is located at the base of the surrounding mountains, which are composed of granite and other types of rock.",
+        "image":"https://www.nps.gov/acad/planyourvisit/images/20180703_SandBeach001.jpg"
+    },
+    {
+        "name": "Bubble Rock",
+        "type": "Geosphere",
+        "location": {
+            "lat": 44.3396732,
+            "lng": -68.2530726
+        },
+        "description":"This large boulder perched on the edge of a granite cliff is believed to have been deposited by a glacier during the last ice age.",
+        "image":"https://i0.wp.com/acadiaonmymind.com/wp-content/uploads/2014/07/Stacey.jpg?ssl=1"
+    },
+    {
+        "name": "Precipice Trail",
+        "type": "Geosphere",
+        "location": {
+            "lat": 44.3500838,
+            "lng": -68.1909348
+        },
+        "description":" This hiking trail leads to the summit of Champlain Mountain and is known for its steep drop-offs and challenging climbs.",
+        "image":"https://www.nps.gov/common/uploads/cropped_image/primary/AAC46C63-EEA2-3137-D897BD941EB99329.jpg"
+    }
+    ],
+    "Hidrosphere":
+    [
+        {
+            "name": "Jordan Pond",
+            "type": "Hidrosphere",
+            "location": {
+                "lat": 44.3311199,
+                "lng": -68.2654741
+            },
+            "description": "This freshwater lake is located in the Jordan Valley. The crystal-clear water makes it popular for fishing, boating, and hiking.",
+            "image":"https://www.nps.gov/common/uploads/grid_builder/acad/crop16_9/36B490CD-B19F-12A2-7B6B9048F920F25E.jpg"
+        },
+        {
+            "name":"Thunder Hole",
+            "type": "Hidrosphere",
+            "location": {
+                "lat": 44.3208161,
+                "lng": -68.1887581
+            },
+            "description": "Thunder Hole is a natural rock formation that is located along the coast of Acadia National Park. It is a narrow inlet that is approximately 20 feet deep and 40 feet wide, and is known for the thunderous sound that is produced when waves crash into it. The sound is created by the compression of air and water within the inlet, which produces a loud, booming noise.",
+            "image":"https://www.nps.gov/common/uploads/cropped_image/primary/272B67DA-CE68-0C95-4D263818C9DFCF9B.jpg"
+        },
+        {
+            "name": "Eagle Lake",
+            "type": "Hidrosphere",
+            "location": {
+                "lat": 44.3635654,
+                "lng": -68.2502347
+            },
+            "description": " This freshwater lake is located in the center of Mount Desert Island and is surrounded by forests. It is a popular spot for hiking, biking, and fishing.",
+            "image":"https://www.nps.gov/common/uploads/cropped_image/primary/FA023B35-B3A5-B18B-6CC788081055F220.jpg"
+        }
+    ],
+    "Atmosphere" : [
+        {
+        "name":"NOAA climate station MCFARLAND HILL MAINE, ME US",
+        "type": "Atmosphere",
+        "location": {
+            "lat": 44.3769,
+            "lng": -68.2608
+        },
+        "description": "This a NOAA climate station what is destinate to record atmospheric data it was open may, 1 of 2002",
+        "image":"https://www.nps.gov/acad/learn/nature/images/Bill-Gawley-Air-Quality-Monitoring.jpg"
+        }
+    ],
+    "Biosphere" : [
+        {
+            "name":"Wild Gardens of Acadia",
+            "type":"Biosphere",
+            "location": {
+                "lat": 44.3624456,
+                "lng": -68.2091004
+            },
+            "description":"Native trees, wildflowers & ferns in a rustic setting with a stream & paths like the Jesup Trail.",
+            "image":"https://www.nps.gov/common/uploads/cropped_image/primary/A9BFC6DF-C2B3-747B-A3581D6683BBF6D8.jpg"
+        }
+    ]
+    
+    
+}
