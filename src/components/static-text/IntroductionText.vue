@@ -87,6 +87,14 @@ export default {
     /* font-family: "DynaPuff"; */
     font-size: 5rem;
   }
+  @media (max-width: 768px) {
+    #introduction_headings > h1{
+      font-size: 3rem;
+    }
+    #go_to_map {
+      font-size: 1rem;
+    }
+  }
 
   #introduction_headings > h3{
     font-family: "DynaPuff";
